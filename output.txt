@@ -1,0 +1,10 @@
+Enter a movie title: shrrek
+
+Closest match: 'Shrek' (Confidence: 91%)
+
+Because you watched 'Shrek', you might also like:
+1. Toy Story
+2. Finding Nemo
+3. The Matrix
+
+Press Enter to exit...
